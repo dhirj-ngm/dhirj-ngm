@@ -22,6 +22,7 @@ Foundations | Java Backend-in-progress
 ✍️ Commentary
 
 I write on the intersection of Technology & Power. Check out my latest articles on world affairs here: (https://www.linkedin.com/in/dheeraj-nigam-80bb64247/)
+
 ⚡ Quick Stats
 
     🏎️ Current Pace: Moving from architectural theory to full-stack deployment.
